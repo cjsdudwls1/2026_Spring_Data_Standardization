@@ -1,0 +1,15 @@
+# IDE/Editor settings
+.claude/
+.omc/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
